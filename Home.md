@@ -14,6 +14,4 @@ image_alt: image of recent work from facebook
 {% include page-tears.html %}
 {% include page-sketch.html %}
 
-![image of recent work from facebook]({{ page.teeth_url }})
-![image of recent work from facebook]({{ page.tears_url }})
-![image of recent work from facebook]({{ page.sketch_url }})
+<!-- ![image of recent work from facebook]({{ page.teeth_url }}) -->
