@@ -19,7 +19,7 @@ image_alt: image of recent work from facebook
    
     <h3>{{ piece.title }}</h3>
 
-    <p> <img src="{{ piece.image }}" alt="alt text..."</p>
+    <p> <img src="{{ piece.image }}" alt="alt text..." /> </p>
     <p>{{ piece.content }}</p>
     <p>Category: {{ piece.category }}</p>
     <p> </p>
