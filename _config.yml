@@ -1,12 +1,12 @@
 title: Art by Cameron
 theme: minima
 collections:
-  collection:
+  pieces:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "pieces"
     values:
-      layout: collection_item
+      layout: piece

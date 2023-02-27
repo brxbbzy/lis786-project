@@ -11,3 +11,15 @@ layout: home
     <li> <img src="https://i.ibb.co/HzwQZ7W/Art8.jpg" alt="Art8" border="0"> </li>
 
 </ul>
+
+<h2>View the recent works created by <b> Cameron Alagna. </b> </h2>
+{% for piece in site.pieces %}
+<!-- Do Something -->
+   
+    <h3>{{ piece.title }}</h3>
+
+    <p> <img src="{{ piece.image }}" alt="alt text..."</p>
+    <p>{{ piece.content }}</p>
+    <p>Category: {{ machine.category }}</p>
+
+{% endfor %}
