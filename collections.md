@@ -7,7 +7,7 @@ permalink: /collections
 
 # Digital Pieces
 
-{% for machine in site.pieces %}
+{% for piece in site.pieces %}
 {% if piece.category == 'digital' %}
 <h3>{{ piece.title }}</h3>
 <p><img src="{{ piece.image }}" alt="alt text..."</p>
