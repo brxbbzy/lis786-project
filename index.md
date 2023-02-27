@@ -7,8 +7,8 @@ tears_url: https://i.ibb.co/q0n1MLd/Art13.jpg
 sketch_url: https://i.ibb.co/HzwQZ7W/Art8.jpg
 image_alt: image of recent work from facebook 
 ---
-# Bajo el Mismo Sol 
-## View the recent works created by **Cameron Alagna**. 
+## Bajo el Mismo Sol 
+# View the recent works created by **Cameron Alagna**. 
 
 {% include page-teeth.html %}
 {% include page-tears.html %}
