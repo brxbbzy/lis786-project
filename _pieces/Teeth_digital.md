@@ -1,5 +1,5 @@
 ---
-title: Digital Art
+title: Teeth
 category: digital
 image: https://i.ibb.co/ZR9YHmb/art11.jpg
 ---
