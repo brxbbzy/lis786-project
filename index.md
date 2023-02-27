@@ -10,10 +10,6 @@ image_alt: image of recent work from facebook
 ## Bajo el Mismo Sol 
 # View the recent works created by **Cameron Alagna**. 
 
-{% include page-teeth.html %}
-{% include page-tears.html %}
-{% include page-sketch.html %}
-
 {% for piece in site.pieces %}
 <h3>{{ piece.title }}</h3>
 <p> <img src="{{ piece.image }}" alt="alt text..." /> </p>
