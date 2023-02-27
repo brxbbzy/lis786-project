@@ -3,9 +3,9 @@ title: Collections
 layout: page
 permalink: /collections
 ---
-# Here you can view the art collections by Cameron Alagna
+## Here you can view the art collections by Cameron Alagna
 
-## Digital Pieces
+# Digital Pieces
 
 {% for machine in site.pieces %}
 {% if piece.category == 'digital' %}
