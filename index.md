@@ -7,6 +7,8 @@ tears_url: https://i.ibb.co/q0n1MLd/Art13.jpg
 sketch_url: https://i.ibb.co/HzwQZ7W/Art8.jpg
 image_alt: image of recent work from facebook 
 ---
+<div class="content-left" markdown="1">
+
 ## Bajo el Mismo Sol 
 # View the recent works created by **Cameron Alagna**. 
 
@@ -17,4 +19,8 @@ image_alt: image of recent work from facebook
 <p>Category: {{ piece.category }}</p>
 {% endfor %}
 
-<!-- ![image of recent work from facebook]({{ page.teeth_url }}) -->
+</div>
+
+<div class= "img-right" markdown="1">
+![{{piece.content}}]( piece.image )
+</div>

@@ -7,3 +7,29 @@ body{
     background-color:antiquewhite;
     font: 100% Helvetica, Sans-serif;
 }
+
+.clearfix::after{
+    content:"";
+    clear:both;
+    display: table;
+}
+
+.content-left{
+    @media all and (min-width: 960px){
+        width: 66%;
+        float: left;
+        padding-right: 20px;
+    }
+}
+
+.img-right{
+    @media all and (min-width: 960px){
+        width: 33%;
+        float: right;
+    }
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
