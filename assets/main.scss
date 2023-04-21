@@ -28,6 +28,12 @@ body{
         float: right;
     }
 }
+.img-left{
+    @media all and (min-width: 960px){
+        width: 33%;
+        float: left;
+    }
+}
 
 img{
     max-width: 100%;
