@@ -22,5 +22,5 @@ image_alt: image of recent work from facebook
 </div>
 
 <div class= "img-right" markdown="1">
-![{{piece.content}}]( piece.image )
+![image of recent work from facebook](https://i.ibb.co/HzwQZ7W/Art8.jpg)
 </div>
