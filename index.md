@@ -24,3 +24,4 @@ image_alt: image of recent work from facebook
 <div class= "img-left" markdown="1">
 ![image of recent work from facebook](https://i.ibb.co/HzwQZ7W/Art8.jpg)
 </div>
+<div class="clearfix"></div>
