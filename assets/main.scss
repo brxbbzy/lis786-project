@@ -22,6 +22,14 @@ body{
     }
 }
 
+.content-right{
+    @media all and (min-width: 960px){
+        width: 66%;
+        float: right;
+        padding-left: 20px;
+    }
+}
+
 .img-right{
     @media all and (min-width: 960px){
         width: 33%;
